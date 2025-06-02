@@ -10,4 +10,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 !s::Send {Media_Play_Pause}
 !d::Send {Media_Next}
 
-# test comm
+# test co
